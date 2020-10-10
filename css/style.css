@@ -1,0 +1,190 @@
+a.navbar-brand {
+    font-family: 'Great Vibes', cursive;
+    font-size: 50px;
+    text-shadow: 2px 2px 5px rgba(66, 60, 63, 0.88);
+    color: #352a1c !important;
+
+}
+
+ul {
+    color: #656565;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 0em 0.5em;
+    text-shadow: 1px 1px 2px #929292;
+
+}
+
+a.nav-link {
+    margin: 0 12px;
+}
+
+.navbar {
+    padding: 8px auto;
+
+}
+
+.bg-light {
+
+    background-color: rgba(255, 255, 255, 0.73) !important;
+
+
+}
+
+.banner {
+    background: url(../images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 880px;
+    position: relative;
+}
+
+
+.Hello-world {
+    width: 600px;
+    height: 50px;
+    color: rgb(0, 0, 0);  
+    position: relative;
+    top: 350px;
+    animation-name: example;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+    font-size: 64px;
+    font-family: 'Great Vibes', cursive;
+  
+  }
+  
+  @keyframes example {
+    0%   {color:rgb(0, 0, 0); left:280px; top:350px;}
+    25%  {color:#ea6a9f; left:480px; top:350px;}
+    50%  {color:blue; left:480px; right:500px;top:350px;}
+    75%  {color:green; left:280px; right:500px;top:350px;}
+    100% {color:rgb(0, 0, 0); left:280px; right:300px;top:350px;}
+  
+}
+
+.p-hello-world {
+    width: 600px;
+    height: 50px;
+    color: rgb(0, 0, 0);  
+    position: relative;
+    top: 350px;
+    animation-name: example;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+    font-size: 46px;
+    font-family: 'Great Vibes', cursive;
+    text-shadow: 2px 2px 13px #823611;
+  
+  }
+  
+  @keyframes example {
+    0%   {color:rgb(0, 0, 0); left:280px; top:350px;}
+    25%  {color:#ea6a9f; left:480px; top:350px;}
+    50%  {color:blue; left:480px; right:500px;top:350px;}
+    75%  {color:green; left:280px; right:500px;top:350px;}
+    100% {color:rgb(0, 0, 0); left:280px; right:300px;top:350px;}
+}
+.feeling-text {
+    width: 650px;
+    height: 50px;
+    color:#ea6a9f;  
+    position: relative;
+    top: 427px;
+    left: 800px;
+    animation-name: exam;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    font-size: 120px;
+    font-family: 'Great Vibes', cursive;
+    text-shadow: 2px 2px 8px #f581ae;
+
+}
+
+@keyframes exam {
+  0%   {color:#ea6a9f; left:800px; top:427px;}
+  25%  {color:yellow; left:800px; top:427px;}
+  50%  {color:#ea6a9f; left:800px; right:800px;top:427px;}
+  75%  {color:green; left:800px; right:800px;top:427px;}
+  100% {color:#ea6a9f; left:800px; right:800px;top:427px;}
+}
+
+
+
+
+.btn.button-banner {
+    margin-right: 300px;
+    border-radius: 0 15px 0 15px;
+    padding: 9px 49px;
+    background-color: #00B6E3!important;
+    color: white;
+    border: none !important;
+    letter-spacing: 2px;
+    font-size: 17px!important;
+    font-weight: 600;
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    top: 488px;
+    left: 1248px;
+
+
+}
+
+.btn.button-banner:hover {
+    background-color: #ea6a9f !important;
+    color: white;
+    border: none !important;
+    transition-duration: 0.5s;
+
+}
+
+
+
+
+
+
+.btn {
+    margin-right: 300px;
+    border-radius: 0 15px 0 15px;
+    padding: 10px 24px;
+    background-color: #ea6a9f !important;
+    color: white;
+    border: none !important;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: 600;
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+.btn:hover {
+    background-color: #03CCE6 !important;
+    color: white;
+    border: none !important;
+    transition-duration: 0.5s;
+
+}
+
+.letters {
+    outline: none;
+    padding: 9px 15px;
+    font-size: 15px;
+    color: #000;
+    background: rgba(255, 255, 255, 0);
+    width: 64%;
+    letter-spacing: 2px;
+    border: none;
+    border-bottom: 2px solid rgba(148, 152, 152, 0.23);
+    margin: 0;
+    border-radius: 0;
+    box-sizing: border-box;
+}
+
+.icon-top-poss {
+    color: #ea6a9f;
+    position: fixed;
+    bottom: 20px;    
+    right: 58px;   
+}

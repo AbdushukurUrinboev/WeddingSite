@@ -1,0 +1,35 @@
+.cont-contact {
+    width: 50% !important;
+}
+.contact-tittle {
+    font-size: 60px;
+    margin-left: 180px;
+    
+}
+.search-button {
+    position: relative;
+    top: 0px;
+    
+}
+.cont-tit {
+    display: inline-block;
+    margin-top: 150px;
+}
+.submit-button {
+    width: 150px;
+    margin-left: 770px;
+    margin-bottom: 80px;
+    border-radius: 0 !important;
+    letter-spacing: 2px;   
+    font-weight: 600;
+    display: inline-block;
+    text-decoration: none;
+    outline: none;
+    padding: 12px 0;
+    font-size: 16px;
+    color: #fff;
+    background: #ea6a9f !important;
+    border: none !important;
+    text-transform: uppercase;
+    box-shadow: -7px 7px 10px rgba(0, 0, 0, 0.12);
+}
